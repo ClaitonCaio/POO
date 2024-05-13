@@ -33,8 +33,24 @@ public class Banco {
     public void setContaPoupanca(ContaPoupanca[] contaPoupanca) {
         this.contaPoupanca = contaPoupanca;
     }
+
+    @Override
+    public String toString() {
+        String correnteStr = "", poupancaStr = "";
+        for(int i = 0;i< contaCorrente.length;i++){
+            correnteStr = correnteStr +" "+contaCorrente[i].toString();
+        }
+
+        for(int i = 0;i< contaPoupanca.length;i++){
+            poupancaStr = poupancaStr +" "+contaPoupanca[i].toString();
+        }
+
+        return "Banco{" + "nome = " + nome + "\ncontasCorrente=" + correnteStr + "\ncontasPoupanca=" + poupancaStr + '}';
+    }
+
 }
 
+    
 class Conta{
     String agencia;
     int numero;
