@@ -8,6 +8,6 @@
 ### Discente: Claiton Caio Rodrigues
  
 # Navegacão
-*![](https://cdn.discordapp.com/attachments/1219340471944351804/1241519292764389418/emoji_livro.png?ex=664a7e71&is=66492cf1&hm=cb02f73fc449788ad1fa1ca6b801a54910905cdf0333ece1b8004e2c243f5845&)[Atividades](https://github.com/ClaitonCaio/POO/tree/main/Atividades)
+*![](https://cdn.discordapp.com/attachments/1219340471944351804/1241519292764389418/emoji_livro.png?ex=664a7e71&is=66492cf1&hm=cb02f73fc449788ad1fa1ca6b801a54910905cdf0333ece1b8004e2c243f5845&)[Atividades](https://github.com/ClaitonCaio/POO/tree/main/Atividades) <br>
 *![](https://cdn.discordapp.com/attachments/1219340471944351804/1241519292764389418/emoji_livro.png?ex=664a7e71&is=66492cf1&hm=cb02f73fc449788ad1fa1ca6b801a54910905cdf0333ece1b8004e2c243f5845&) [Desafios](#listas)
  
